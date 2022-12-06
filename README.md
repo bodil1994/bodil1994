@@ -1,29 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bodil</h1>
-<h3 align="center">A passionate full stack developer located in Austria</h3>
+<h3 align="center">A passionate junior full stack developer located in Austria</h3>
+Inspired by my close work with development teams in my role as a CRM Manager, I took an educational leave (Jun 22–Nov 22) in order to complete a Full Stack Web Development Bootcamp. Coding allowed me to perfectly combine my high affinity for logical thinking and creativity with my experience in business, managing complex projects, and my psychology degree (M.Sc.). I truly found my passion in coding and cannot wait to start the next phase of my life as a junior developer. 
 
-- 🔭 I’m currently working on [test](#)
+- 🔭 I’m currently working on [Zettel](#):  A personal knowledge management system building networks of your notes
 
-- 🌱 I’m currently learning **test**
-
-- 👯 I’m looking to collaborate on [test](#)
-
-- 🤝 I’m looking for help with [test](#)
-
-- 👨‍💻 All of my projects are available at [test](test)
-
-- 📝 I regularly write articles on [test](test)
-
-- 💬 Ask me about **test**
-
-- 📫 How to reach me **test**
+- 🌱 Learning next: React
 
 - 📄 Know about my experiences [test](test)
 
-- ⚡ Fun fact **test**
+- Other Projects: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bodilhundevad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
