@@ -2,13 +2,13 @@
 <h3 align="center">A passionate junior full stack developer located in Austria</h3>
 
 <h3 align="left">Top Projects:</h3>
-- 💸[NoNameBank](https://github.com/bodil1994/nnb): Peer2Peer Lending
-- 🗒️[Zettel](https://github.com/bodil1994/zettel): Creating networks from your notes
-- 🐍[Snake](https://github.com/bodil1994/snake): Classic Nokia Snake game
+* 💸[NoNameBank](https://github.com/bodil1994/nnb): Peer2Peer Lending
+* 🗒️[Zettel](https://github.com/bodil1994/zettel): Creating networks from your notes
+* 🐍[Snake](https://github.com/bodil1994/snake): Nokia Snake game
 
 <h3 align="left">About:</h3>
 Inspired by my close work with development teams in my role as a CRM Manager, I took an educational leave (Jun 22–Nov 22) in order to complete a Full Stack Web Development Bootcamp. Coding allowed me to perfectly combine my high affinity for logical thinking and creativity with my experience in business, managing complex projects, and my psychology degree (M.Sc.). I truly found my passion in coding and cannot wait to start the next phase of my life as a junior developer. 
-[More >](https://www.linkedin.com/in/bodil-hundevad/)
+[More](https://www.linkedin.com/in/bodil-hundevad/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
