@@ -9,7 +9,7 @@
 - 💸 [NoNameBank](https://github.com/bodil1994/nnb): Peer2Peer lending app coded in 2 weeks
 - 🗒️ [Zettel](https://github.com/bodil1994/zettel): Creating networks from your notes
 - 🐍 [Snake](https://github.com/bodil1994/snake): Classic Snake game
-<p align="center">Watch my NoNameBank demo here:</p> 
+<p align="center">Watch my NoNameBank demo as Lead Developer here:</p> 
  
 <p align="center"><a href="https://youtu.be/398uwgl9FXM?t=447" target="blank"><img width="50%" src="https://i.postimg.cc/k51yk72d/NNB-Demo-Video.png" alt="NNB Demo Video"  /></a></p>
  
