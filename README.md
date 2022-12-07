@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bodil</h1>
-<h3 align="center">A passionate junior full stack developer located in Austria</h3>
+![](https://raw.githubusercontent.com/bodilhundevad/bodilhundevad/main/Git%20header%20bodilhundevad.gif)
+
+<!-- <h1 align="center">Hi 👋, I'm Bodil</h1> -->
+<!-- <h3 align="center">A passionate junior full stack developer located in Austria</h3> -->
 
 <h3 align="left">Top Projects:</h3>
 
