@@ -6,7 +6,7 @@
 <dl><dd><dl><dd><dl><dd><dl><dd> <!--adds margin -->
 <h3 align="left">Top Projects:</h3>
 
-- 💸 [NoNameBank](https://github.com/bodil1994/nnb): Peer2Peer Lending
+- 💸 [NoNameBank](https://github.com/bodil1994/nnb): Peer2Peer lending app coded in 2 weeks
 - 🗒️ [Zettel](https://github.com/bodil1994/zettel): Creating networks from your notes
 - 🐍 [Snake](https://github.com/bodil1994/snake): Classic Snake game
 <p align="center">Watch my NoNameBank Demo here:</p> 
