@@ -6,9 +6,9 @@
 <dl><dd><dl><dd><dl><dd><dl><dd> <!--adds margin -->
 <h3 align="left">Top Projects:</h3>
 
-- 💸 [NoNameBank](https://github.com/bodil1994/nnb): Peer2Peer lending app coded in 2 weeks
-- 🗒️ [Zettel](https://github.com/bodil1994/zettel): Creating networks from your notes
-- 🐍 [Snake](https://github.com/bodil1994/snake): Classic Snake game
+- 💸 [NoNameBank](https://github.com/bodilhundevad/nnb): Start earning passive income by funding personal loans. App coded in 2 weeks.
+- 🗒️ [Zettel](https://github.com/bodilhundevad/zettel): Simple app for taking and connecting notes. A networked approach to connecting your notes enables you to find what you need quickly and develop your ideas over time.
+- 🐍 [Snake](https://github.com/bodilhundevad/snake): Classic snake arcade game made with Ruby 2D gem. Chase the apples without eating your own tail.
 <p align="center">Watch my NoNameBank demo as Lead Developer here:</p> 
  
 <p align="center"><a href="https://youtu.be/398uwgl9FXM?t=447" target="blank"><img width="50%" src="https://i.postimg.cc/k51yk72d/NNB-Demo-Video.png" alt="NNB Demo Video"  /></a></p>
