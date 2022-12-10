@@ -15,7 +15,7 @@
  
 <h3 align="left">About:</h3>
 
-Inspired by my close work with development teams in my role as a CRM Manager, I took an educational leave (Jun 22–Nov 22) in order to complete a Full Stack Web Development Bootcamp. Coding allowed me to perfectly combine my high affinity for logical thinking and creativity with my experience in business, managing complex projects, and my psychology degree (M.Sc.). I truly found my passion in coding and cannot wait to start the next phase of my life as a junior developer. 
+Inspired by my close work with development teams in my role as a CRM Manager, I took an educational leave (June 22–Nov' 22) in order to complete a Full Stack Web Development Bootcamp. Coding allowed me to perfectly combine my high affinity for logical thinking and creativity with my experience in business, managing complex projects, and my psychology degree (M.Sc.). I truly found my passion in coding and cannot wait to start the next phase of my life as a junior developer. 
  
 [Check out my CV >](https://drive.google.com/file/d/1scjQIz_riKJ-fnUk1ViGM8RIp3fNhA08/view?usp=sharing)
 <!--
