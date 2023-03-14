@@ -5,20 +5,32 @@
 
 <dl><dd><dl><dd><dl><dd><dl><dd> <!--adds margin -->
 <h3 align="left">Top Projects:</h3>
+ 
+💸 [NoNameBank](https://github.com/bodilhundevad/nnb)
+ - Invest, earn, connect: Make investing easy and accessible by creating an Airbnb for personal loans. Features include dashboard, banking wallet, repayment schedules, comprehensive portfolio statistics, and chat with borrowers.
+ - Development: Ruby on Rails, HTML, SCSS, Javascript, Stimulus JS, PostgreSQL, Cloudinary
+ 
+📧 [Email Generator](https://github.com/bodilhundevad/openai-email-responder)
+- Allows users to generate a new email based on context they provide or generate a response to an email they received. Additionally, users can select different tonalities for the email and copy the generated email to their clipboard. Built with focus of improving TDD knowledge.
+- Development: Ruby on Rails, HTML, SCSS, Javascript, Stimulus JS, PostgreSQL, OpenAI, RSpec, Webmock, VCR
 
-- 💸 [NoNameBank](https://github.com/bodilhundevad/nnb): Start earning passive income by funding personal loans. App coded in 2 weeks.
-- 🗒️ [Zettel](https://github.com/bodilhundevad/zettel): Simple app for taking and relating notes. A networked approach to connecting your notes enables you to find what you need quickly and develop your ideas over time.
-- 🐍 [Snake](https://github.com/bodilhundevad/snake): Classic snake arcade game made with Ruby 2D gem. Chase the apples without eating your own tail.
+ 
+🗒️ [Zettel](https://github.com/bodilhundevad/zettel)
+- A networked approach note-taking app to connect your ideas and find what you need faster. 
+- Development: Ruby on Rails, HTML, SCSS, Javascript, jQuery, D3.js, PostgreSQL, Algolia Search API
+
+ 🐍 [Snake](https://github.com/bodilhundevad/snake)
+- A just for fun project building the classic snake arcade game.
+- Development: Ruby, Ruby2D
+
 <p align="center">Watch my NoNameBank demo as lead developer here:</p> 
  
 <p align="center"><a href="https://youtu.be/398uwgl9FXM?t=447" target="blank"><img width="50%" src="https://i.postimg.cc/k51yk72d/NNB-Demo-Video.png" alt="NNB Demo Video"  /></a></p>
  
 <h3 align="left">About:</h3>
-
-Inspired by my close work with development teams in my role as a CRM Manager, I took an educational leave (June 22–Nov' 22) in order to complete a Full Stack Web Development Bootcamp. Coding allowed me to perfectly combine my high affinity for logical thinking and creativity with my experience in business, managing complex projects, and my psychology degree (M.Sc.). I truly found my passion in coding and cannot wait to start the next phase of my life as a junior developer. 
- 
-[Check out my CV >](https://drive.google.com/file/d/1scjQIz_riKJ-fnUk1ViGM8RIp3fNhA08/view?usp=sharing)
-<!--
+As a CRM Manager in a fintech company, I worked closely with developers on a daily basis to create intuitive and effective software experiences using agile methods. My logical-analytical and collaborative skills were key in solving these complex problems, and I now hope to use them to open up a new career path for myself.
+I have always been driven to learn and grow, and my close collaboration with development teams sparked my curiosity in programming. I took the opportunity to enroll in a full stack web development bootcamp during a six-month educational leave. Not only did I learn to code, but I also discovered my true passion.
+ <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bodil-hundevad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
