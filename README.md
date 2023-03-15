@@ -12,16 +12,16 @@ I have always been driven to learn and grow, and my close collaboration with dev
  
 💸 [NoNameBank](https://github.com/bodilhundevad/nnb)
  - Invest, earn, connect: Makes investing easy and accessible by creating an Airbnb for personal loans. Features include dashboard, banking wallet, repayment schedules, comprehensive portfolio statistics, and chat with borrowers.
- - Development: Ruby on Rails, HTML, SCSS, Javascript, Stimulus JS, PostgreSQL, Cloudinary
+ - Development: Ruby on Rails, HTML, SCSS, Bootstrap, Javascript, Stimulus JS, Chart.js, Popper.js, PostgreSQL, Cloudinary, Devise Authentication, PWA Serviceworker
  
 📧 [Email Generator](https://github.com/bodilhundevad/openai-email-responder)
 - Allows users to generate a new email based on context they provide or generate a response to an email they received. Additionally, users can select different tonalities for the email and copy the generated email to their clipboard. Built with focus of improving TDD knowledge.
-- Development: Ruby on Rails, HTML, SCSS, Javascript, Stimulus JS, PostgreSQL, OpenAI, RSpec, Webmock, VCR
+- Development: Ruby on Rails, HTML, SCSS, Javascript, Stimulus JS, PostgreSQL, OpenAI API, RSpec, Webmock, VCR
 
  
 🗒️ [Zettel](https://github.com/bodilhundevad/zettel)
 - A networked approach note-taking app to connect your ideas and find what you need faster. 
-- Development: Ruby on Rails, HTML, SCSS, Javascript, jQuery, D3.js, PostgreSQL, Algolia Search API
+- Development: Ruby on Rails, HTML, SCSS, Javascript, jQuery, D3.js, PostgreSQL, Algolia Search API, Devise Authentication
 
  🐍 [Snake](https://github.com/bodilhundevad/snake)
 - A just for fun project building the classic snake arcade game.
