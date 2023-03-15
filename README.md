@@ -11,7 +11,7 @@ I have always been driven to learn and grow, and my close collaboration with dev
 <h3 align="left">Top Projects</h3>
  
 💸 [NoNameBank](https://github.com/bodilhundevad/nnb)
- - Invest, earn, connect: Make investing easy and accessible by creating an Airbnb for personal loans. Features include dashboard, banking wallet, repayment schedules, comprehensive portfolio statistics, and chat with borrowers.
+ - Invest, earn, connect: Makes investing easy and accessible by creating an Airbnb for personal loans. Features include dashboard, banking wallet, repayment schedules, comprehensive portfolio statistics, and chat with borrowers.
  - Development: Ruby on Rails, HTML, SCSS, Javascript, Stimulus JS, PostgreSQL, Cloudinary
  
 📧 [Email Generator](https://github.com/bodilhundevad/openai-email-responder)
